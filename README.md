@@ -1,3 +1,19 @@
+<div align="center">
+  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
+</div>
+
+<div align="center">
+  
+  <samp>
+      <br>
+      Hi there! I'm <b>Ray Martins</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div> 
 # 👾About Me:
 Technology Student focused on Software Development, Networking, and Cybersecurity.<br><br>Passionate about building secure, reliable, and innovative technology solutions while developing expertise in Cyber-Physical Systems and IT Infrastructure.<br><br>📂 Here you'll find my projects, study materials, labs, and learning journey in technology.<br>
 
