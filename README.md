@@ -27,19 +27,21 @@ Technology Student focused on Software Development, Networking, and Cybersecurit
 # 📊 Stats:
 <br>
 <br>
+<div aligh="center">
+  
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaiannyMartins&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaiannyMartins&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RaiannyMartins&theme=midnight_purple&utcOffset=8) |
+ | :-: | :-: | :-: |
 
- ![](https://github-readme-stats.shion.dev/api?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=RaiannyMartins&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+ |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaiannyMartins&theme=midnight_purple) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaiannyMartins&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats) |
+ | :-: | :-: 
+ 
+ </div|
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaiannyMartins&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RaiannyMartins&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
 [![](https://komarev.com/ghpvc/?username=RaiannyMartins&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
