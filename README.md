@@ -35,8 +35,6 @@ Technology Student focused on Software Development, Networking, and Cybersecurit
  |![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaiannyMartins&theme=midnight_purple) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaiannyMartins&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats) |
  | :-: | :-: 
  
- </div|
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaiannyMartins&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
