@@ -29,10 +29,10 @@ Technology Student focused on Software Development, Networking, and Cybersecurit
 <br>
 
 div align="center">
-  <img height="165" src="https://komarev.com/ghpvc/?username=RaiannyMartins&icon=2&color=0)](https://visitcount.itsvg.in">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true">
-  <img align="center" alt="Top Language" src="https://streak-stats.demolab.com/?user=RaiannyMartins&theme=midnight-purple&hide_border=false">
-  <img align="center" alt="Top Language" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+ ![](https://github-readme-stats.shion.dev/api?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=RaiannyMartins&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
 ## 🏆 GitHub Trophies
