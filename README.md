@@ -28,12 +28,10 @@ Technology Student focused on Software Development, Networking, and Cybersecurit
 <br>
 <br>
 
-div align="center">
  ![](https://github-readme-stats.shion.dev/api?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=RaiannyMartins&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaiannyMartins&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
@@ -44,6 +42,4 @@ div align="center">
 ---
 [![](https://komarev.com/ghpvc/?username=RaiannyMartins&icon=2&color=0)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.shion.dev/api?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=RaiannyMartins&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
