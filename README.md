@@ -16,7 +16,7 @@
 </div> 
 
 ## 👾About Me:
-Technology Student focused on Software Development, Networking, and Cybersecurity.<br><br>Passionate about building secure, reliable, and innovative technology solutions while developing expertise in Cyber-Physical Systems and IT Infrastructure.<br><br>📂 Here you'll find my projects, study materials, labs, and learning journey in technology.<br>
+Technology Student focused on Software Development, Networking, and Cybersecurity.Also known online is HEDA.br><br>Passionate about building secure, reliable, and innovative technology solutions while developing expertise in Cyber-Physical Systems and IT Infrastructure.<br><br>📂 Here you'll find my projects, study materials, labs, and learning journey in technology.<br>
 
 
 ## 🌐 Socials:
