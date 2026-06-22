@@ -31,24 +31,28 @@ Technology Student focused on Software Development, Networking, and Cybersecurit
     alt="Github Stats"
     heigth="200"
     style="padding-rigth: 10px;"
-    src="![]https://github-readme-stats.shion.dev/api?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true"
+    src="[![](https://komarev.com/ghpvc/?username=RaiannyMartins&icon=2&color=0)](https://visitcount.itsvg.in)"
+
     />
   
   <img
     align="left"
     alt="Github Stats"
     heigth="200"
-    src="![]https://streak-stats.demolab.com/?user=RaiannyMartins&theme=midnight-purple&hide_border=false"
+    src="![](https://github-readme-stats.shion.dev/api?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=RaiannyMartins&theme=midnight-purple&hide_border=false)<br/>"
     />
    
   <img
     align="left"
     alt="Github Stats"
     heigth="200"
-    src="![]https://streak-stats.demolab.com/?user=RaiannyMartins&theme=midnight-purple&hide_border=false"
+    src="![](https://github-readme-stats.shion.dev/api/top-langs/?username=RaiannyMartins&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+"
     />  
     
 </p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RaiannyMartins&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
